@@ -12,8 +12,7 @@
 
 ## Description
 
-A PWA text editor
-[Github Repo](https://github.com/Pcents/Text-Editor)
+A PWA text editor -[Github Repo](https://github.com/Pcents/Text-Editor) -[Heroku Link](https://jate-text-editor-jp.herokuapp.com/)
 
 ## Installation
 
