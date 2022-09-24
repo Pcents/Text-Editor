@@ -32,7 +32,8 @@ export const getDb = async () => {
   const result = await request;
   console.log("done loggin");
   console.log("results.value", result);
-  return result;
+  // optional chaining to reduce my error
+  return result?.value;
 };
 
 export const putDb = async (id, content) => {
